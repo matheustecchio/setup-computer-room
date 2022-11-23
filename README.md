@@ -3,6 +3,6 @@ In this college project we teach, in slides, how to set up a computer room. From
 
 ## License
 
-Copyright © 2022 [Matheus Tecchio](https://github.com/matheustecchio).
+Licensed under the [Creative Commons Attribution 4.0 International](./LICENSE).
 
-Licensed under the [MIT License](./LICENSE).
+Copyright © 2022 [Matheus Tecchio](https://github.com/matheustecchio).
